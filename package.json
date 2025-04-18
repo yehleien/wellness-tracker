@@ -1,0 +1,16 @@
+{
+  "name": "wellness-tracker",
+  "version": "0.1.0",
+  "description": "A holistic wellness tracking system",
+  "main": "index.js",
+  "scripts": {
+    "install": "node scripts/install.js",
+    "uninstall": "node scripts/uninstall.js",
+    "start": "node scripts/start.js",
+    "stop": "node scripts/stop.js"
+  },
+  "dependencies": {
+    "docker-compose": "^0.24.0",
+    "fs-extra": "^11.1.1"
+  }
+} 
