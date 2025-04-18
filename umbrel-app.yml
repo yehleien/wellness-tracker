@@ -21,4 +21,13 @@ ports:
   - 8080:8080  # CockroachDB Admin UI
 volumes:
   - wellness-data:/app/data
-  - cockroach-data:/cockroach/cockroach-data 
+  - cockroach-data:/cockroach/cockroach-data
+install:
+  script: scripts/install.sh
+  timeout: 300
+start:
+  script: scripts/start.sh
+  timeout: 300
+stop:
+  script: scripts/stop.sh
+  timeout: 300 
