@@ -1,9 +1,9 @@
 name: Wellness Tracker
 description: A holistic wellness tracking system
 version: 0.1.0
-icon: https://raw.githubusercontent.com/yourusername/wellness-tracker/main/icon.png
-developer: Your Name
-website: https://github.com/yourusername/wellness-tracker
+icon: https://raw.githubusercontent.com/yehleien/wellness-tracker/main/icon.png
+developer: Nick Yehle
+website: https://github.com/yehleien/wellness-tracker
 category: Health & Wellness
 requirements:
   - docker
