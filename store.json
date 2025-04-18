@@ -1,0 +1,10 @@
+{
+  "name": "Wellness Apps",
+  "apps": [
+    {
+      "id": "wellness-tracker",
+      "name": "Wellness Tracker",
+      "repo": "https://github.com/yehleien/wellness-tracker.git"
+    }
+  ]
+} 
