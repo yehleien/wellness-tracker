@@ -1,6 +1,27 @@
-# Holistic Wellness Tracker
+# Wellness Apps for Umbrel
 
-A self-hosted wellness tracking system that aggregates data from multiple sources into a unified dashboard.
+A collection of wellness tracking applications for Umbrel.
+
+## Available Apps
+
+### Wellness Tracker
+A holistic wellness tracking system that aggregates data from multiple sources into a unified dashboard.
+
+Features:
+- WHOOP integration
+- Apple Health data
+- FoodNoms nutrition tracking
+- Day One journal integration
+- Recovery tracking
+- Spiritual practice logging
+
+## Installation
+
+1. Go to your Umbrel dashboard
+2. Navigate to the App Store
+3. Click "Add custom app store"
+4. Enter: `https://github.com/yehleien/wellness.git`
+5. Install the Wellness Tracker from the Wellness Apps store
 
 ## Data Sources
 
